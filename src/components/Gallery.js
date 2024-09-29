@@ -12,6 +12,7 @@ import { getBaseImage, getImages, imagesJson } from "./Constant";
 
 
 function Gallery() {
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
   const [selectedImageList, setSelectedImageList] = useState([]);
   const [open, setOpen] = React.useState(false);
   const theme = useTheme();
@@ -57,7 +58,7 @@ function Gallery() {
 
         <Dialog maxWidth="xl" fullScreen={fullScreen} open={open} onClose={handleClose} aria-labelledby="responsive-dialog-title">
           <DialogContent>
-            <ImageGallery items={selectedImageList} thumbnailPosition="left" showBullets="true" />
+            <ImageGallery items={selectedImageList} thumbnailPosition={isMobile ? "bottom" : "left"} showBullets="true" />
           </DialogContent>
           <DialogActions>
             <Button onClick={handleClose} autoFocus>
