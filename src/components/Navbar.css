@@ -1,5 +1,5 @@
 .connect-button {
-  padding: 15px 30px 15px 30px;
+  padding: 15px 10px 15px 10px;
   font-weight: bold;
   border-radius: 40px;
   color: white;
@@ -16,11 +16,11 @@
 
 .business-name {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 30px;
   color: black;
   font-family: cursive;
   display: inline-grid;
   align-items: center;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 5%;
 }

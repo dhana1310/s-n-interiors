@@ -43,7 +43,7 @@ function Gallery() {
 
   return (
     <div className="container">
-      <h1 style={{ marginTop: "100px", fontFamily: "monospace", fontWeight: "bold", fontSize: "50px" }}>Delivered Projects</h1>
+      <h1 style={{ marginTop: "100px", fontFamily: "monospace", fontWeight: "bold", fontSize: "35px", marginBottom: "20px" }}>Delivered Projects</h1>
 
       <div className="gallery">
         {imagesJson.images.map((imgSrc, index) => (
