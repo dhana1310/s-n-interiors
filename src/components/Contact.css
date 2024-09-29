@@ -1,4 +1,4 @@
-h3, h5  {
+.white-text  {
     color: white;
 }
 
@@ -23,7 +23,7 @@ h3, h5  {
     box-shadow:   5px 5px  8px black;
 }
 
-p {
+.black-bold {
     color: black;
     font-weight: bold;
 }

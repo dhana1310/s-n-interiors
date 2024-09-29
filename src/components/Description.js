@@ -15,7 +15,7 @@ const Description = (props) => {
 
         <center>
         <span style={{fontSize: '2.5vw', fontWeight: 'bold', fontFamily: 'monospace'}}>Making Memories Amidst
-        <br></br> These Beautiful Walls</span>
+        <br></br> These Beautiful Walls!</span>
         </center>
       </div>
     </div>
