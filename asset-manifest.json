@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/s-n-interiors/static/css/main.cd9b575f.css",
-    "main.js": "/s-n-interiors/static/js/main.3d842f8c.js",
+    "main.css": "/s-n-interiors/static/css/main.31664c7d.css",
+    "main.js": "/s-n-interiors/static/js/main.0c1f16ab.js",
     "static/js/453.d4b75d95.chunk.js": "/s-n-interiors/static/js/453.d4b75d95.chunk.js",
     "static/media/basePhoto.jpg": "/s-n-interiors/static/media/basePhoto.b64cfdd2fec8737290e8.jpg",
     "static/media/5.jpg": "/s-n-interiors/static/media/5.d2d92a537e90cab80045.jpg",
@@ -19,12 +19,12 @@
     "static/media/location-pin.png": "/s-n-interiors/static/media/location-pin.4b24287cb33401ab0dfb.png",
     "static/media/phone-call.png": "/s-n-interiors/static/media/phone-call.20a0ed4204215b0502d9.png",
     "index.html": "/s-n-interiors/index.html",
-    "main.cd9b575f.css.map": "/s-n-interiors/static/css/main.cd9b575f.css.map",
-    "main.3d842f8c.js.map": "/s-n-interiors/static/js/main.3d842f8c.js.map",
+    "main.31664c7d.css.map": "/s-n-interiors/static/css/main.31664c7d.css.map",
+    "main.0c1f16ab.js.map": "/s-n-interiors/static/js/main.0c1f16ab.js.map",
     "453.d4b75d95.chunk.js.map": "/s-n-interiors/static/js/453.d4b75d95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd9b575f.css",
-    "static/js/main.3d842f8c.js"
+    "static/css/main.31664c7d.css",
+    "static/js/main.0c1f16ab.js"
   ]
 }
