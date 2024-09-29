@@ -1,15 +1,11 @@
-import React, { useState, useRef } from "react";
-import Contact from "./Contact";
+import React, { useState } from "react";
 import "./Gallery.css";
 import Dialog from "@mui/material/Dialog";
 import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
-import DialogContentText from "@mui/material/DialogContentText";
-import DialogTitle from "@mui/material/DialogTitle";
 import { useTheme } from "@mui/material/styles";
 import Button from "@mui/material/Button";
 import useMediaQuery from "@mui/material/useMediaQuery";
-import MyGallery from "./MyGallery";
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 import { getBaseImage, getImages, imagesJson } from "./Constant";
@@ -27,8 +23,10 @@ function Gallery() {
 
     const images = getImages(imgSrc.folder);
     images.forEach(image => {
-      dialogImageList.push({ original: image.src,
-      thumbnail: image.src});
+      if (!image.key.includes('basePhoto')) {
+        dialogImageList.push({ original: image.src,
+          thumbnail: image.src});
+      }
     });
     setSelectedImageList(dialogImageList);
     handleClickOpen();

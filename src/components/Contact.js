@@ -1,15 +1,18 @@
 import React from "react";
 import "./Contact.css";
 import { Col, Row } from "react-bootstrap";
+import locationPin from './../assets/location-pin.png';
+import phoneCall from './../assets/phone-call.png';
+import email from './../assets/email.png';
 
-function Contact({ imgSrc, closeModal }) {
+function Contact() {
   return (
     <div className="container" style={{ padding: "20px", marginBottom: "100px" }}>
       <h1 style={{marginTop: '100px', fontFamily:'cursive', fontWeight:'bold', fontSize: '40px'}}>Reach out to us</h1>
       <Row className="contact-box" style={{ marginTop: "50px", backgroundColor: "rgb(255 115 1)", padding: "50px 100px 100px 50px", fontFamily: "cursive" }}>
         <Col sm={4} className="link">
           <center title="Open in Google maps">
-            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src="location-pin.png" alt="" />
+            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src={locationPin} alt="" />
 
             <a className="location-map" href="https://maps.app.goo.gl/sGP8dnXKR5sG9ZfeA" target="_blank">
               <h3> Our Office Location</h3>
@@ -23,7 +26,7 @@ function Contact({ imgSrc, closeModal }) {
 
         <Col sm={4}>
           <center>
-            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src="phone-call.png" alt="" />
+            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src={phoneCall} alt="" />
             <h3> Phone (Mob)</h3>
             <p>
               +91 95718 06196
@@ -35,7 +38,7 @@ function Contact({ imgSrc, closeModal }) {
 
         <Col sm={4}>
           <center>
-            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src="email.png" alt="" />
+            <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src={email} alt="" />
             <h3> Email</h3>
             <p>sninterior1072@gmail.com</p>
           </center>

@@ -2,7 +2,6 @@ import React from "react";
 import Gallery from "./components/Gallery";
 import Nav from "./components/Navbar";
 import './App.css';
-import MyGallery from "./components/MyGallery";
 import Contact from "./components/Contact";
 import Description from "./components/Description";
 
