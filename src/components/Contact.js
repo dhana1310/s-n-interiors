@@ -8,8 +8,8 @@ import email from './../assets/email.png';
 function Contact() {
   return (
     <div className="container" style={{ padding: "20px", marginBottom: "100px" }}>
-      <h1 style={{marginTop: '100px', fontFamily:'cursive', fontWeight:'bold', fontSize: '40px'}}>Reach out to us</h1>
-      <Row className="contact-box" style={{ marginTop: "50px", backgroundColor: "rgb(255 115 1)", padding: "50px 100px 100px 50px", fontFamily: "cursive" }}>
+      <h1 style={{marginTop: '100px', fontFamily:'monospace', fontWeight:'bold', fontSize: '40px'}}>Reach out to us</h1>
+      <Row className="contact-box" style={{ marginTop: "50px", backgroundColor: "rgb(255 115 1)", padding: "50px", fontFamily: "monospace" }}>
         <Col sm={4} className="link">
           <center title="Open in Google maps">
             <img style={{ width: "33px", height: "33px", marginBottom: "10px" }} src={locationPin} alt="" />

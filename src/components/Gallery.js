@@ -42,15 +42,15 @@ function Gallery() {
 
 
   return (
-    <>
-      <h1 style={{ marginTop: "100px", fontFamily: "cursive", fontWeight: "bold", fontSize: "50px" }}>Delivered Projects</h1>
+    <div className="container">
+      <h1 style={{ marginTop: "100px", fontFamily: "monospace", fontWeight: "bold", fontSize: "50px" }}>Delivered Projects</h1>
 
       <div className="gallery">
         {imagesJson.images.map((imgSrc, index) => (
           <div key={index} className="gallery-item" onClick={() => openModal(imgSrc)}>
             <img src={getBaseImage(imgSrc.folder)[0].src} alt={`Gallery ${index}`} />
             <center>
-              <h6 style={{ fontWeight: "bold", fontFamily: "cursive", marginTop: "10px", fontSize: "20px" }}>{imgSrc.name}</h6>
+              <h6 style={{ fontWeight: "bold", fontFamily: "monospace", marginTop: "10px", fontSize: "20px" }}>{imgSrc.name}</h6>
             </center>
           </div>
         ))}
@@ -66,7 +66,7 @@ function Gallery() {
           </DialogActions>
         </Dialog>
       </div>
-    </>
+    </div>
   );
 }
 

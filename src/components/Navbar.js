@@ -10,7 +10,7 @@ const Nav = () => {
     <Navbar style={{ backgroundColor: "white" }}>
       <Container>
         <Navbar.Brand>
-          <a href='http://localhost:3000' style={{textDecoration: 'none'}}>
+          <a href='https://dhana1310.github.io/s-n-interiors' style={{textDecoration: 'none'}}>
           <img alt="" src={logo} width="80" height="70" className="d-inline-block align-top" />{" "}
           <span className="business-name">
              Interiors 
@@ -20,7 +20,7 @@ const Nav = () => {
           </a>
         </Navbar.Brand>
         <Navbar.Text>
-          <a className="connect-button" href="whatsapp://send?phone=919665188527&text=Hi,I want to connect for the interior designing" target="_blank">
+          <a className="connect-button" href="whatsapp://send?phone=919571806196&text=Hi,\nI want to connect for the interior designing" target="_blank">
             <img style={{ width: "33px", height: "33px" }} src={whatsappLogo} alt="" />
             <span style={{ marginLeft: "5px", color: "white" }}>Whatsapp us</span>
           </a>
