@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/interior-designer-image-gallery/static/css/main.77fd2c3c.css",
+    "main.js": "/interior-designer-image-gallery/static/js/main.f8ce9390.js",
+    "static/js/453.d4b75d95.chunk.js": "/interior-designer-image-gallery/static/js/453.d4b75d95.chunk.js",
+    "static/media/basePhoto.jpg": "/interior-designer-image-gallery/static/media/basePhoto.b64cfdd2fec8737290e8.jpg",
+    "static/media/5.jpg": "/interior-designer-image-gallery/static/media/5.d2d92a537e90cab80045.jpg",
+    "static/media/4.jpg": "/interior-designer-image-gallery/static/media/4.ea5431d35377dc69ba3a.jpg",
+    "static/media/7.jpg": "/interior-designer-image-gallery/static/media/7.120823abcde610fbb0a8.jpg",
+    "static/media/6.jpg": "/interior-designer-image-gallery/static/media/6.7e077e71d4d8cc25b062.jpg",
+    "static/media/3.jpg": "/interior-designer-image-gallery/static/media/3.8be73d479f226d68c896.jpg",
+    "static/media/1.jpg": "/interior-designer-image-gallery/static/media/1.2b69cd25cece4732c47f.jpg",
+    "static/media/2.jpg": "/interior-designer-image-gallery/static/media/2.120823abcde610fbb0a8.jpg",
+    "static/media/8.jpg": "/interior-designer-image-gallery/static/media/8.8be73d479f226d68c896.jpg",
+    "index.html": "/interior-designer-image-gallery/index.html",
+    "main.77fd2c3c.css.map": "/interior-designer-image-gallery/static/css/main.77fd2c3c.css.map",
+    "main.f8ce9390.js.map": "/interior-designer-image-gallery/static/js/main.f8ce9390.js.map",
+    "453.d4b75d95.chunk.js.map": "/interior-designer-image-gallery/static/js/453.d4b75d95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fd2c3c.css",
+    "static/js/main.f8ce9390.js"
+  ]
+}
