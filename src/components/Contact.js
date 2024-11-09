@@ -7,7 +7,7 @@ import email from './../assets/email.png';
 
 function Contact() {
   return (
-    <div className="container" style={{ padding: "20px", marginBottom: "100px" }}>
+    <div className="container" style={{ padding: "20px", marginBottom: "50px" }}>
       <h1 style={{marginTop: '100px', fontFamily:'monospace', fontWeight:'bold', fontSize: '25px', color:"black",}}>Reach out to us</h1>
       <Row className="contact-box" style={{ marginTop: "20px", backgroundColor: "rgb(255 115 1)", padding: "50px", fontFamily: "monospace" }}>
         <Col sm={4} className="link">

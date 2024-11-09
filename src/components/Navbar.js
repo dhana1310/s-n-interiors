@@ -20,7 +20,7 @@ const Nav = () => {
           </a>
         </Navbar.Brand>
         <Navbar.Text>
-          <a className="connect-button" href="whatsapp://send?phone=919571806196&text=Hi,\nI want to connect for the interior designing" target="_blank">
+          <a className="connect-button" href="whatsapp://send?phone=919571806196&text=Hi,\\nI want to connect for the interior designing" target="_blank">
             <img style={{ width: "33px", height: "33px" }} src={whatsappLogo} alt="" />
             <span style={{ marginLeft: "5px", color: "white" }}>Whatsapp us</span>
           </a>
