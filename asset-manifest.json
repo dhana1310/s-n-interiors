@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/s-n-interiors/static/css/main.af3b5e8b.css",
-    "main.js": "/s-n-interiors/static/js/main.f7d26ed1.js",
+    "main.js": "/s-n-interiors/static/js/main.0ef8f72a.js",
     "static/js/453.d4b75d95.chunk.js": "/s-n-interiors/static/js/453.d4b75d95.chunk.js",
     "static/media/basePhoto.jpg": "/s-n-interiors/static/media/basePhoto.b64cfdd2fec8737290e8.jpg",
     "static/media/5.jpg": "/s-n-interiors/static/media/5.d2d92a537e90cab80045.jpg",
@@ -20,11 +20,11 @@
     "static/media/phone-call.png": "/s-n-interiors/static/media/phone-call.20a0ed4204215b0502d9.png",
     "index.html": "/s-n-interiors/index.html",
     "main.af3b5e8b.css.map": "/s-n-interiors/static/css/main.af3b5e8b.css.map",
-    "main.f7d26ed1.js.map": "/s-n-interiors/static/js/main.f7d26ed1.js.map",
+    "main.0ef8f72a.js.map": "/s-n-interiors/static/js/main.0ef8f72a.js.map",
     "453.d4b75d95.chunk.js.map": "/s-n-interiors/static/js/453.d4b75d95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af3b5e8b.css",
-    "static/js/main.f7d26ed1.js"
+    "static/js/main.0ef8f72a.js"
   ]
 }
