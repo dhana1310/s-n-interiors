@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/s-n-interiors/static/css/main.af3b5e8b.css",
-    "main.js": "/s-n-interiors/static/js/main.0ef8f72a.js",
-    "static/js/453.d4b75d95.chunk.js": "/s-n-interiors/static/js/453.d4b75d95.chunk.js",
-    "static/media/basePhoto.jpg": "/s-n-interiors/static/media/basePhoto.b64cfdd2fec8737290e8.jpg",
-    "static/media/5.jpg": "/s-n-interiors/static/media/5.d2d92a537e90cab80045.jpg",
-    "static/media/4.jpg": "/s-n-interiors/static/media/4.ea5431d35377dc69ba3a.jpg",
-    "static/media/7.jpg": "/s-n-interiors/static/media/7.120823abcde610fbb0a8.jpg",
-    "static/media/6.jpg": "/s-n-interiors/static/media/6.7e077e71d4d8cc25b062.jpg",
-    "static/media/1525.jpg": "/s-n-interiors/static/media/1525.df1aebd6341e3cf4f48f.jpg",
-    "static/media/3.jpg": "/s-n-interiors/static/media/3.8be73d479f226d68c896.jpg",
-    "static/media/1.jpg": "/s-n-interiors/static/media/1.2b69cd25cece4732c47f.jpg",
-    "static/media/2.jpg": "/s-n-interiors/static/media/2.120823abcde610fbb0a8.jpg",
-    "static/media/8.jpg": "/s-n-interiors/static/media/8.8be73d479f226d68c896.jpg",
-    "static/media/whatsapp.png": "/s-n-interiors/static/media/whatsapp.d026940870fb334920b7.png",
-    "static/media/logo.jpg": "/s-n-interiors/static/media/logo.8fba47e3c825971b5831.jpg",
-    "static/media/email.png": "/s-n-interiors/static/media/email.1e7c398cc7ccc07e249e.png",
-    "static/media/location-pin.png": "/s-n-interiors/static/media/location-pin.4b24287cb33401ab0dfb.png",
-    "static/media/phone-call.png": "/s-n-interiors/static/media/phone-call.20a0ed4204215b0502d9.png",
-    "index.html": "/s-n-interiors/index.html",
-    "main.af3b5e8b.css.map": "/s-n-interiors/static/css/main.af3b5e8b.css.map",
-    "main.0ef8f72a.js.map": "/s-n-interiors/static/js/main.0ef8f72a.js.map",
-    "453.d4b75d95.chunk.js.map": "/s-n-interiors/static/js/453.d4b75d95.chunk.js.map"
+    "main.css": "/static/css/main.af3b5e8b.css",
+    "main.js": "/static/js/main.10bedbd2.js",
+    "static/js/453.d4b75d95.chunk.js": "/static/js/453.d4b75d95.chunk.js",
+    "static/media/basePhoto.jpg": "/static/media/basePhoto.b64cfdd2fec8737290e8.jpg",
+    "static/media/5.jpg": "/static/media/5.d2d92a537e90cab80045.jpg",
+    "static/media/4.jpg": "/static/media/4.ea5431d35377dc69ba3a.jpg",
+    "static/media/7.jpg": "/static/media/7.120823abcde610fbb0a8.jpg",
+    "static/media/6.jpg": "/static/media/6.7e077e71d4d8cc25b062.jpg",
+    "static/media/1525.jpg": "/static/media/1525.df1aebd6341e3cf4f48f.jpg",
+    "static/media/3.jpg": "/static/media/3.8be73d479f226d68c896.jpg",
+    "static/media/1.jpg": "/static/media/1.2b69cd25cece4732c47f.jpg",
+    "static/media/2.jpg": "/static/media/2.120823abcde610fbb0a8.jpg",
+    "static/media/8.jpg": "/static/media/8.8be73d479f226d68c896.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/logo.jpg": "/static/media/logo.8fba47e3c825971b5831.jpg",
+    "static/media/email.png": "/static/media/email.1e7c398cc7ccc07e249e.png",
+    "static/media/location-pin.png": "/static/media/location-pin.4b24287cb33401ab0dfb.png",
+    "static/media/phone-call.png": "/static/media/phone-call.20a0ed4204215b0502d9.png",
+    "index.html": "/index.html",
+    "main.af3b5e8b.css.map": "/static/css/main.af3b5e8b.css.map",
+    "main.10bedbd2.js.map": "/static/js/main.10bedbd2.js.map",
+    "453.d4b75d95.chunk.js.map": "/static/js/453.d4b75d95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af3b5e8b.css",
-    "static/js/main.0ef8f72a.js"
+    "static/js/main.10bedbd2.js"
   ]
 }
